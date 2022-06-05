@@ -1,0 +1,8 @@
+{
+    "positive" : {
+        "validData" : "when user hit API register with valid data then user got response 201/ok"
+    },
+    "negative" : {
+        "invalidData" : "when user hit API register with invalid data then user got response error"
+    }
+}
